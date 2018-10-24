@@ -24,6 +24,9 @@ Warning: Idle sleep timings for "Battery Power" may not behave as expected.
 ### InsomniaX
 * 상단을 닫았을 때 잠자기모드 전환 방지
 * 다운로드URL : http://semaja2.net/ye-ol-projects/insomniaxinfo/
+### NameChanger
+* 파일이름을 쉽게 변경
+* 다운로드URL : https://mrrsoftware.com/namechanger/
 
 ## TODO LIST
 * Mail.app 서명 설정 내용 정리
