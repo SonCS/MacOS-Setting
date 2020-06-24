@@ -18,6 +18,7 @@ Warning: Idle sleep timings for "Battery Power" may not behave as expected.
 ### Rectangle
 * 화면 분할 (기존 Spectacle 업데이트 중지로 인해 대체 프로그램)
 * IDE에서 정상동작함. :)
+* 다운로드URL : https://rectangleapp.com/
 ### WinArchiver Lite
 * Windows에서 한글이 깨지지 않도록 압축해주는 프로그램
 * 다운로드URL : https://itunes.apple.com/kr/app/winarchiver-lite/id414855915?mt=12
