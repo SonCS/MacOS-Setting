@@ -18,11 +18,21 @@ Warning: Idle sleep timings for "Battery Power" may not behave as expected.
 ### Dock 가리기 속도 개선
 * 커서를 Dock 위치에 둔 후 Dock이 모습을 나타내기까지 소요되는 대기시간 수정
 ```
-## 대기시간 변경 명령어
+# 대기시간 변경 명령어
 defaults write com.apple.Dock autohide-delay -float '대기시간(0~1)'; killall Dock
 
-## 초기상태 복구 명령어
+# 초기상태 복구 명령어
 defaults write com.apple.Dock autohide-delay; killall Dock
+```
+
+* Dock 애니메이션 효과 속도 변경
+```
+# 애니메이션 속도 변경 명령어
+defaults write com.apple.dock autohide-time-modifier -float '애니메이션속도(0-1)';killall Dock
+애니메이션 속도를 0으로 설정 시 애니메이션 효과를 완전히 삭제할 수 있습니다. 커서를 Dock 위치에 가지고 가면 뿅하고 나타납니다.
+
+# 초기상태 복구 명령어
+defaults delete com.apple.dock autohide-time-modifier;killall Dock
 ```
 
 ## 유틸리티
