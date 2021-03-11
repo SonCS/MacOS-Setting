@@ -51,6 +51,10 @@ defaults delete com.apple.dock autohide-time-modifier;killall Dock
 * 파일이름을 쉽게 변경
 * 다운로드URL : https://mrrsoftware.com/namechanger/
 
+### OnyX
+* 최적화 유틸리티
+* 다운로드URL : https://www.titanium-software.fr/en/index.html
+
 ## TODO LIST
 * Mail.app 서명 설정 내용 정리
 
