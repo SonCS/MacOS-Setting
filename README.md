@@ -36,6 +36,19 @@ defaults write com.apple.dock autohide-time-modifier -float '애니메이션속�
 defaults delete com.apple.dock autohide-time-modifier;killall Dock
 ```
 
+### LaunchPad 아이콘 크기 및 개수 조절
+```
+# 크기 변경 명령어
+defaults write com.apple.dock springboard-columns -int [가로]
+defaults write com.apple.dock springboard-rows -int [세로]
+killall dock
+
+# 복구 명령어
+defaults delete com.apple.dock springboard-columns
+defaults delete com.apple.dock springboard-rows
+killall Dock
+```
+
 ## 유틸리티
 ### Rectangle
 * 화면 분할 (기존 Spectacle 업데이트 중지로 인해 대체 프로그램)
