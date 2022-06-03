@@ -58,8 +58,7 @@ killall Dock
 * Windows에서 한글이 깨지지 않도록 압축해주는 프로그램
 * 다운로드URL : https://itunes.apple.com/kr/app/winarchiver-lite/id414855915?mt=12
 ### InsomniaX
-* 상단을 닫았을 때 잠자기모드 전환 방지
-* 다운로드URL : http://semaja2.net/ye-ol-projects/insomniaxinfo/
+* 지원중단!!!! 대안 프로그램 찾아야 함.
 ### NameChanger
 * 파일이름을 쉽게 변경
 * 다운로드URL : https://mrrsoftware.com/namechanger/
