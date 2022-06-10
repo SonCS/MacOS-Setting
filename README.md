@@ -54,18 +54,22 @@ killall Dock
 * 화면 분할 (기존 Spectacle 업데이트 중지로 인해 대체 프로그램)
 * IDE에서 정상동작함. :)
 * 다운로드URL : https://rectangleapp.com/
+
+
 ### WinArchiver Lite
 * Windows에서 한글이 깨지지 않도록 압축해주는 프로그램
 * 다운로드URL : https://itunes.apple.com/kr/app/winarchiver-lite/id414855915?mt=12
-### InsomniaX
-* 지원중단!!!! 대안 프로그램 찾아야 함.
+
+
 ### NameChanger
 * 파일이름을 쉽게 변경
 * 다운로드URL : https://mrrsoftware.com/namechanger/
 
+
 ### OnyX
 * 최적화 유틸리티
 * 다운로드URL : https://www.titanium-software.fr/en/index.html
+
 
 ## TODO LIST
 * Mail.app 서명 설정 내용 정리
